@@ -1,0 +1,6 @@
+IF Paul likes apples THEN Paul buys apples.
+IF Wendy likes apples THEN Wendy buys apples.
+IF Susan likes apples THEN Susan buys apples.
+IF Wendy buys apples THEN basket has apples.
+Paul likes apples OR Wendy likes apples OR Susan likes apples.
+Basket has apples.

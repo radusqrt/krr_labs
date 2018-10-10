@@ -1,0 +1,4 @@
+IF Yueh is blackmailed THEN Yueh pacts with Harkonen.
+IF Yueh pacts with Harkonen THEN NOT Yueh is loyal.
+Duke Atreides rewards Yueh IFF Yueh is loyal.
+Yueh is blackmailed AND Duke Atreides rewards Yueh.

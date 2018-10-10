@@ -1,0 +1,10 @@
+Alfred takes car OR Alfred takes bus.
+Car goes work IFF car has gas.
+Alfred goes work IFF Alfred takes car AND car goes work.
+Alfred goes work IFF Alfred takes bus AND bus goes work.
+Alfred takes bus IFF NOT car goes work.
+Alfred takes car IFF car has gas.
+Bus goes work IFF NOT city has traffic.
+NOT car has gas.
+City has traffic.
+Alfred goes work.
